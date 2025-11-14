@@ -26,7 +26,7 @@ The assignments cover:
 
 
 ---
-The **assignments** folder contains all project code and notebooks, while the **docs** folder includes the corresponding assignment documentation and reports.
+## The **assignments** folder contains all project code and notebooks, while the **docs** folder includes the corresponding assignment documentation and reports.
 
 #  Project Summaries
 
