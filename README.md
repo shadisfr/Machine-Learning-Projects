@@ -29,7 +29,7 @@ The assignments cover:
 
 #  Project Summaries
 
-### ** Assignment 1 — Regression & Statistical Analysis**
+###  Assignment 1 — Regression & Statistical Analysis
 
 * Real estate price prediction
 * Life expectancy analysis
