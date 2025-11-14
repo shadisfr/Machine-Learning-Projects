@@ -8,7 +8,7 @@ This assignment contains two parts:
 
 ---
 
-#  **Part 1 — Theoretical Questions**
+# **Part 1 — Theoretical Questions**
 
 ### **a) Bias–Variance Tradeoff**
 
@@ -136,5 +136,6 @@ You must:
 * Use **cross-validation** to evaluate model performance
 * Conduct an **ablation study** (remove or add features and evaluate their impact)
 * Discuss which features helped or hurt performance and why
+
 
 
