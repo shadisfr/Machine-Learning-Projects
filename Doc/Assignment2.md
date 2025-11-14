@@ -92,7 +92,7 @@ You must apply your knowledge of data exploration, cleaning, modeling, and evalu
 
 ---
 
-# ** 1. Exploratory Data Analysis (EDA)**
+### ** 1. Exploratory Data Analysis (EDA)**
 
 Conduct EDA to understand:
 
@@ -136,6 +136,7 @@ You must:
 * Use **cross-validation** to evaluate model performance
 * Conduct an **ablation study** (remove or add features and evaluate their impact)
 * Discuss which features helped or hurt performance and why
+
 
 
 
