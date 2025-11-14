@@ -99,7 +99,7 @@ Using scikit-learn:
 
 # **Task 2 — Life Expectancy Dataset (WHO)**
 
-### 🔗 **Dataset**
+### **Dataset**
 
 Life Expectancy dataset from Kaggle:
 `https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who`
@@ -209,5 +209,6 @@ Compare:
 * How the results align with correlation values from part (c)
 
 ---
+
 
 
