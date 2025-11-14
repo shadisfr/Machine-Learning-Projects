@@ -8,9 +8,9 @@ Datasets used:
 
 ---
 
-## ✨ **Task 1 — Real Estate Price Prediction**
+## **Task 1 — Real Estate Price Prediction**
 
-### 🔗 **Dataset**
+### **Dataset**
 
 Real estate dataset from Kaggle:
 `https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction`
@@ -97,7 +97,7 @@ Using scikit-learn:
 
 ---
 
-# ✨ **Task 2 — Life Expectancy Dataset (WHO)**
+# **Task 2 — Life Expectancy Dataset (WHO)**
 
 ### 🔗 **Dataset**
 
@@ -209,4 +209,5 @@ Compare:
 * How the results align with correlation values from part (c)
 
 ---
+
 
