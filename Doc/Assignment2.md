@@ -83,16 +83,16 @@ Explain how:
 
 ---
 
-# ✨ **Part 2 — Titanic Spaceship Classification Task**
+# **Part 2 — Titanic Spaceship Classification Task**
 
-### 🛸 **Objective**
+### **Objective**
 
 Perform a **binary classification task** using the **Spaceship Titanic dataset**.
 You must apply your knowledge of data exploration, cleaning, modeling, and evaluation.
 
 ---
 
-## **📊 1. Exploratory Data Analysis (EDA)**
+## ** 1. Exploratory Data Analysis (EDA)**
 
 Conduct EDA to understand:
 
@@ -106,7 +106,7 @@ Use visualizations where appropriate.
 
 ---
 
-## **🧹 2. Data Cleaning & Feature Engineering**
+## ** 2. Data Cleaning & Feature Engineering**
 
 Tasks include:
 
@@ -119,7 +119,7 @@ Tasks include:
 
 ---
 
-## **🤖 3. Model Training and Evaluation**
+## ** 3. Model Training and Evaluation**
 
 Train **at least one classification model** (e.g., Logistic Regression, Random Forest, SVM):
 
@@ -131,9 +131,10 @@ You must:
 
 ---
 
-## **🔄 4. Cross-Validation & Ablation Study**
+## ** 4. Cross-Validation & Ablation Study**
 
 * Use **cross-validation** to evaluate model performance
 * Conduct an **ablation study** (remove or add features and evaluate their impact)
 * Discuss which features helped or hurt performance and why
+
 
