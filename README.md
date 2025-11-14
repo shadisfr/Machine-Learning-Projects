@@ -39,7 +39,7 @@ The assignments cover:
 
 ---
 
-### ** Assignment 2 — Spaceship Titanic Classification**
+###  Assignment 2 — Spaceship Titanic Classification
 
 * Data cleaning & feature engineering
 * Baseline vs. engineered models
@@ -48,7 +48,7 @@ The assignments cover:
 
 ---
 
-### ** Assignment 3 — Persian Emotion Detection (NLP)**
+###  Assignment 3 — Persian Emotion Detection (NLP)
 
 * Text preprocessing for Persian language
 * Feature extraction (TF–IDF, n-grams)
@@ -59,7 +59,7 @@ The assignments cover:
 
 ---
 
-### ** Assignment 4 — CTR Prediction**
+###  Assignment 4 — CTR Prediction
 
 * User interaction data analysis
 * CTR binary classification
